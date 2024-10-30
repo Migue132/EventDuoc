@@ -1,13 +1,18 @@
 [   
         {
                 "id": 1,
-                "titulo": "🎓¡Tu opinión cuenta! 📊 Participa en la Encuesta Docente", 
+                "titulo": "🎓¡Tu opinión cuenta!", 
                 "descripcion": "La encuesta estará disponible desde el lunes 28 de octubre hasta el lunes 18 de noviembre 2024. " 
         }, 
         { 
                 "id": 2,
-                "titulo": "📢✨ Congreso VcM 2025: ¡Postula y expone tus buenas prácticas! 🚀", 
+                "titulo": "📢✨ Congreso VcM 2025🚀", 
                 "descripcion": "La experiencia de nuestra comunidad educativa es clave para el desarrollo progresivo de esta y otras funciones misionales." 
+        }, 
+        { 
+                "id": 3,
+                "titulo": "🎉 ¡Gran Noticia para Todos! 🎓", 
+                "descripcion": "¡Nos complace compartir una noticia increíble con toda la comunidad de Duoc UC! Hemos recibido la acreditación de 7 años por tercer periodo consecutivo." 
         }
 
 ]
