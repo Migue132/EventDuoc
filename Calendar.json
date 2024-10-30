@@ -1,9 +1,11 @@
 [   
         {
+                "id": 1,
                 "titulo": "🎓¡Tu opinión cuenta! 📊 Participa en la Encuesta Docente", 
                 "descripcion": "La encuesta estará disponible desde el lunes 28 de octubre hasta el lunes 18 de noviembre 2024. " 
         }, 
         { 
+                "id": 2,
                 "titulo": "📢✨ Congreso VcM 2025: ¡Postula y expone tus buenas prácticas! 🚀", 
                 "descripcion": "La experiencia de nuestra comunidad educativa es clave para el desarrollo progresivo de esta y otras funciones misionales." 
         }
